@@ -4,16 +4,16 @@
 
 A node.js application that uses input from seeds creating tables and geting routes through live server using sequelize and mysql2.
 ### Tag routes
-![](.Assets/Tags.PNG)
+![](../Back_end_E_commerce/Assets/Tags.PNG)
 
 ### Categories routes
-![](.Assets/Categories.PNG)
+![](../Back_end_E_commerce/Assets/Categories.PNG)
 
 ### Products routes
-![](.Assets/Products.PNG)
+![](../Back_end_E_commerce/Assets/Products.PNG)
 
 ### Recording
-![](.Assets/ORM.gif)
+![](../Back_end_E_commerce/Assets/ORM.gif)
 
 ## User Story
 
